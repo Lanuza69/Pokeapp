@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PokéCard Master</string>
+    <string name="titulo_lista_pokemon">Lista de Pokémon</string>
+    <string name="titulo_equipos">Mis Equipos</string>
+    <string name="titulo_favoritos">Pokémon Favoritos</string>
+    <string name="hint_buscar_pokemon">Buscar Pokémon por nombre...</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="error_pokemon_no_encontrado">No se pudo encontrar el Pokémon.</string>
+    <string name="msg_equipo_creado">¡Equipo creado con éxito!</string>
+    <string name="label_nombre_equipo">Nombre del Equipo</string>
+    <string name="btn_crear_equipo">Crear Equipo</string>
+    <string name="msg_añadido_a_equipo">Añadido al equipo.</string>
+    <string name="menu_pokemons">Pokémons</string>
+    <string name="menu_equipos">Equipos</string>
+    <string name="menu_favoritos">Favoritos</string>
+</resources>
